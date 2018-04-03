@@ -51,7 +51,7 @@ function generateReadme(list) {
       '## 群招聘',
       ''
     ].concat(list.map(function(item, index) {
-      return `${index + 1}. [${item.title}](${item.url})`
+      return `${index + 1}. [${item.title}](${item.html_url})`
     })).join('\n')
   }
 
