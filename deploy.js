@@ -8,6 +8,7 @@
 const request = require('request')
 const fs = require('fs')
 const path = require('path')
+const execSync = require('child_process').execSync
 
 
 function fetch(opts) {
@@ -24,6 +25,19 @@ function fetch(opts) {
       } else {
         resolve(data)
       }
+    })
+  })
+}
+
+function writeFile(path, content) {
+  return new Promise(function(resolve, reject) {
+    fs.writeFile(path, content, function(err) {
+      if(err) {
+        reject(err)
+        return
+      }
+
+      resolve()
     })
   })
 }
@@ -63,12 +77,11 @@ function generateReadme(list) {
   微信搜索 neitui-sth ，点击关注。希望您招人/找工作 更简单，高效。
   `
 
-  fs.writeFile(path.resolve(process.cwd(), './README.md'), input, function(err) {
-    if(err) throw err
-
+  return writeFile(path.resolve(process.cwd(), './README.md'), input).then(function() {
     console.log('generate successfully')
   })
 }
+
 
 fetch({
   url: 'https://api.github.com/repos/neitui/jobs/issues',
@@ -78,7 +91,15 @@ fetch({
   }
 }).then(function (data) {
   const list = data.filter(function(item){ return item.state === 'open' })
-  generateReadme(list)
+  return generateReadme(list)
+}).then(function() {
+  const diff = execSync('git diff').toString()
+  console.log(diff)
+  if(diff){
+    execSync('git add .')
+    execSync('git commit -m "docs: update jobs"')
+    execSync('git push -u origin master')
+  }
 }).catch(function(err){
   if(err) {
     console.log(err)
