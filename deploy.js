@@ -94,7 +94,6 @@ fetch({
   return generateReadme(list)
 }).then(function() {
   const diff = execSync('git diff').toString()
-  console.log(diff)
   if(diff){
     execSync('git add .')
     execSync('git commit -m "docs: update jobs"')
