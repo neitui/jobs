@@ -6,7 +6,7 @@
 
 由于放到 github 上，如果 邮箱，姓名等信息比较私密，请使用 专用招聘邮箱，昵称等。
 
-## 群招聘
+## 群里的招聘信息
 
 1. [用友网络大前端团队招聘前端](https://github.com/neitui/jobs/issues/4)
 2. [百度招聘前端](https://github.com/neitui/jobs/issues/3)

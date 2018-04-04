@@ -48,7 +48,7 @@ function generateReadme(list) {
 
   if(list.length) {
     content = [
-      '## 群招聘',
+      '## 群里的招聘信息',
       ''
     ].concat(list.map(function(item, index) {
       return `${index + 1}. [${item.title}](${item.html_url})`
