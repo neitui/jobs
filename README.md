@@ -8,9 +8,10 @@
 
 ## 群招聘
 
-1. [百度招聘前端](https://github.com/neitui/jobs/issues/3)
-2. [滴滴平台前端招聘](https://github.com/neitui/jobs/issues/2)
-3. [MokaHR招聘前端/后端/NLP](https://github.com/neitui/jobs/issues/1)
+1. [用友网络大前端团队招聘前端](https://github.com/neitui/jobs/issues/4)
+2. [百度招聘前端](https://github.com/neitui/jobs/issues/3)
+3. [滴滴平台前端招聘](https://github.com/neitui/jobs/issues/2)
+4. [MokaHR招聘前端/后端/NLP](https://github.com/neitui/jobs/issues/1)
 
 ## 微信群
 
