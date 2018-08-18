@@ -8,15 +8,16 @@
 
 ## 群里的招聘信息
 
-1. [[北京] 魔力耳朵 招聘 各种Level前端工程师](https://github.com/neitui/jobs/issues/9)
-2. [快手招聘各种level的前端（含校招）](https://github.com/neitui/jobs/issues/8)
-3. [这里科技招聘前端、后端、android](https://github.com/neitui/jobs/issues/7)
-4. [百度教育事业部-智慧课堂-招聘前端](https://github.com/neitui/jobs/issues/6)
-5. [58同城招聘前端](https://github.com/neitui/jobs/issues/5)
-6. [用友网络大前端团队招聘前端](https://github.com/neitui/jobs/issues/4)
-7. [百度招聘前端](https://github.com/neitui/jobs/issues/3)
-8. [滴滴平台前端招聘](https://github.com/neitui/jobs/issues/2)
-9. [MokaHR招聘前端/后端/NLP](https://github.com/neitui/jobs/issues/1)
+1. [【杭州】【有赞】招前端](https://github.com/neitui/jobs/issues/11)
+2. [链家[贝壳]招聘前端工程师](https://github.com/neitui/jobs/issues/10)
+3. [[北京] 魔力耳朵 招聘 各种Level前端工程师](https://github.com/neitui/jobs/issues/9)
+4. [快手招聘各种level的前端（含校招）](https://github.com/neitui/jobs/issues/8)
+5. [这里科技招聘前端、后端、android](https://github.com/neitui/jobs/issues/7)
+6. [百度教育事业部-智慧课堂-招聘前端](https://github.com/neitui/jobs/issues/6)
+7. [58同城招聘前端](https://github.com/neitui/jobs/issues/5)
+8. [用友网络大前端团队招聘前端](https://github.com/neitui/jobs/issues/4)
+9. [滴滴平台前端招聘](https://github.com/neitui/jobs/issues/2)
+10. [MokaHR招聘前端/后端/NLP](https://github.com/neitui/jobs/issues/1)
 
 ## 微信群
 
