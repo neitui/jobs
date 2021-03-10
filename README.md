@@ -8,27 +8,22 @@
 
 ## 群里的招聘信息
 
-1. [【杭州】【有赞】招前端](https://github.com/neitui/jobs/issues/11)
-2. [链家[贝壳]招聘前端工程师](https://github.com/neitui/jobs/issues/10)
-3. [[北京] 魔力耳朵 招聘 各种Level前端工程师](https://github.com/neitui/jobs/issues/9)
-4. [快手招聘各种level的前端（含校招）](https://github.com/neitui/jobs/issues/8)
-5. [这里科技招聘前端、后端、android](https://github.com/neitui/jobs/issues/7)
-6. [百度教育事业部-智慧课堂-招聘前端](https://github.com/neitui/jobs/issues/6)
-7. [58同城招聘前端](https://github.com/neitui/jobs/issues/5)
-8. [用友网络大前端团队招聘前端](https://github.com/neitui/jobs/issues/4)
-9. [滴滴平台前端招聘](https://github.com/neitui/jobs/issues/2)
-10. [MokaHR招聘前端/后端/NLP](https://github.com/neitui/jobs/issues/1)
+1. [门票度假业务 招聘 高级前端工程师](https://github.com/neitui/jobs/issues/18)
+2. [build(deps): bump hoek from 4.2.0 to 4.2.1](https://github.com/neitui/jobs/pull/17)
+3. [build(deps): bump sshpk from 1.13.1 to 1.16.1](https://github.com/neitui/jobs/pull/16)
+4. [build(deps): bump stringstream from 0.0.5 to 0.0.6](https://github.com/neitui/jobs/pull/15)
+5. [build(deps): bump js-yaml from 3.11.0 to 3.13.1](https://github.com/neitui/jobs/pull/14)
 
 ## 微信群
 
-内推那点事，加群请关注下 前端进制 公众号， 回复 内推 ， 即可获取加群方式
+内推那点事，加群请扫下列二维码
 
 ![内推那点事](./img/wechat.png)
 
-为证明您是互联网从业者，请备注渠道来源，姓名（花名），职业等。为了节省彼此时间，请自觉做题，珍惜机会。题目LeetCode Easy程度，避免划水。题目大部分选自 [我的一天一题](https://github.com/jiangtao/one-algorithm), 可以学习和参考.
+为证明您是互联网从业者，请出示 github，个人博客，公众号 等。
 
 
 ## 公众号
 
-微信搜索 lfespace ，点击 大前端空间。交流和探讨前端技术。
+微信搜索 neitui-sth ，点击关注。希望您招人/找工作 更简单，高效。
   
