@@ -93,7 +93,7 @@ fetch({
   }
 }).then(function (data) {
   const list = data.filter(function(item){ return item.state === 'open' })
-  return generateReadme(list)
+  return generateReadme(list.filter(issue => !issue.pull_request && issue.user.type !== 'Bot'))
 }).then(function() {
   const diff = execSync('git diff').toString()
   if(diff){

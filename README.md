@@ -9,10 +9,6 @@
 ## 群里的招聘信息
 
 1. [门票度假业务 招聘 高级前端工程师](https://github.com/neitui/jobs/issues/18)
-2. [build(deps): bump hoek from 4.2.0 to 4.2.1](https://github.com/neitui/jobs/pull/17)
-3. [build(deps): bump sshpk from 1.13.1 to 1.16.1](https://github.com/neitui/jobs/pull/16)
-4. [build(deps): bump stringstream from 0.0.5 to 0.0.6](https://github.com/neitui/jobs/pull/15)
-5. [build(deps): bump js-yaml from 3.11.0 to 3.13.1](https://github.com/neitui/jobs/pull/14)
 
 ## 微信群
 
